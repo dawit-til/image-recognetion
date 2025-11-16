@@ -4,7 +4,7 @@
           Course Title : image recognetion with CNN
          Group Member	                     ID/no
               1, Dawit Tlahun…………………………………. DBUE/0725/13
-              2,Betre Kebede……………………………………. DBUE/0711/13
+              2. Tsiye H/mariyam……………………………….DBUE/0790/13
               3, Bruktayt Mamush…………………………………DBUE/0721/13
               4, Meaza Asnake ………………………………………DBUE/0756/13
               5, Beza Zemedkun………………………………………DBUE/0713/13
